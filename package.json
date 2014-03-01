@@ -1,0 +1,15 @@
+{
+  "name": "PRTStatus",
+  "version": "0.0.1",
+  "description": "PRT Status for Glass",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "main": "app.js",
+  "author": "Austin Dizzy",
+  "dependencies": {
+    "googleapis": "~0.6.1",
+    "express": "~3.4.x"
+  }
+}
